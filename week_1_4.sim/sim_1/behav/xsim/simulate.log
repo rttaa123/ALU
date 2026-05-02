@@ -1,0 +1,41 @@
+Time resolution is 1 ps
+Test 1 (яяяеяяяіяяя­яяя°): PASSED
+Test 2 (яяяеяяяіяяяґяяя°): PASSED
+Test 3 (яяяеяяяіяяяєяяяє): PASSED
+Test 4 (яяяеяяяіяяя­яяя°): PASSED
+Test 5 (яяяжяяяияяя»яяяњ): PASSED
+Test 6 (яяяеяяяіяяяєяяяє): PASSED
+Test 7 (яяязяяяЏяяя”яяѓ-яяядяяяёяяяџ): PASSED
+Test 8 (яяязяяяЏяяя”яяѓ-яяядяяяёяяя‡): PASSED
+Test 9 (яяяњяяя¦яяяжяяяѕяяяґяяя°яяядяяя­яяя°): PASSED
+Test 10 (яяязяяяЏяяя”яяѓ-яяядяяяёяяяџ): PASSED
+Test 11 (яяязяяяЏяяя”яяѓ-яяядяяяёяяя‡): PASSED
+Test 12 (яяя—яяя¦яяяжяяяѕяяяґяяя°яяядяяя¤яяя°): PASSED
+Test 13 (яяяжяяяЅяяяЋ): PASSED
+Test 14 (яяядяяя€яяяћ): PASSED
+Test 15 (яяяжяяяЅяяя–): PASSED
+Test 16 (яяядяяяјяяя–): PASSED
+Test 17 (яяяйяяяѕяяя¦яя»-яяяйяяя§яяяЌ): PASSED
+Test 18 (яяяйяяяѕяяя¦яя»-яяядяяя§яяяЌ): PASSED
+Test 19 (яяяйяяяѕяяя¦яя»-яяяйяяя§яяяЌ): PASSED
+Test 20 (яяяйяяяѕяяяіяя»-яяяйяяя§яяяЌ): PASSED
+Test 21 (яяяйяяяѕяяяіяя»-яяяйяяя§яяяЌ): PASSED
+Test 22 (яяя—яяяеяяя§яяя­яяя°): PASSED
+Test 23 (яяя—яяяеяяя§яяяґяяя°): PASSED
+Test 24 (яяя—яяяеяяя§яяяґяяя°яяяйяяя§яяяЌ): PASSED
+Test 25 (яяядяяяЉяяяЅ): PASSED
+Test 26 (яяя‰яяяеяяя№яяя•яяяЈяяядяяя­яяя°): PASSED
+Test 27 (яяя‰яяяеяяя№яяя•яяяџяяядяяяґяяя°): PASSED
+Test 28 (яяя‰яяяеяяя№яяя•яяяЈяяядяяяґяяя°): PASSED
+Test 29 (яяя—яяя¦яяядяяяіяяя­яяя°): PASSED
+Test 30 (яяя—яяя¦яяядяяяіяяя¤яяя°): PASSED
+Test 31 (яяяжяяя¬яяя·яяяжяяяжяяя™яяяЈ): PASSED
+Test 32 (яяяжяяя¬яяя·яяяжяяяияяя™яяяџ): PASSED
+Test 33 (яяяжяяя¬яяя·яяяжяяяияяя™яяяЈ): PASSED
+Test 34 (яяя‰яяяеяяя™яяя•яяя¤яяҐ0): PASSED
+Test 35 (яяязяяяЏяяя¤яя•-яяяеяяяґяяя°яяядяҐ-1): PASSED
+Test 36 (яяязяяяЏяяя¤яя•-яяяеяяяѓяяяµ): PASSED
+Test 37 (яяя яяяеяяя™яяя•яяя¤яяҐ0): PASSED
+Test 38 (яяяжяяя¬яяя·яяяжяяяияяя•яяя†яяяеяяя­яяя°): PASSED
+ALUжµ‹иЇ•е®Њж€ђпјЊе…±ж‰§иЎЊ38дёЄжµ‹иЇ•
+$finish called at time : 271 ns : File "D:/FPGA/2025/alu4.0/week_1_4/tb.v" Line 380

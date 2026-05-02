@@ -1,0 +1,9 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+D:/FPGA/2025/alu4.0/week_1_4/adder.v,1740983674,verilog,,D:/FPGA/2025/alu4.0/week_1_4/alu.v,,adder;cla_4bit,,,,,,,,
+D:/FPGA/2025/alu4.0/week_1_4/alu.v,1741521830,verilog,,D:/FPGA/2025/alu4.0/week_1_4/tb.v,,alu,,,,,,,,
+D:/FPGA/2025/alu4.0/week_1_4/alu_display.v,1741518713,verilog,,D:/FPGA/2025/alu4.0/week_1_4/adder.v,,alu_display,,,,,,,,
+D:/FPGA/2025/alu4.0/week_1_4/tb.v,1741521839,verilog,,,,tb,,,,,,,,
+D:/FPGA/2025/alu4.0/week_1_4/week_1_4.sim/sim_1/behav/xsim/glbl.v,1708598506,verilog,,,,glbl,,,,,,,,
